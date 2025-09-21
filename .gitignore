@@ -5,11 +5,22 @@
 # Python
 __pycache__/
 *.pyc
-
-# OS
-.DS_Store
-Thumbs.db
+*.pyo
+*.pyd
+.Python
 
 # Virtual Environment
 venv/
 env/
+.venv/
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+logs/
