@@ -1,5 +1,12 @@
 # 《Python机器学习基础教程》
 
+## 笔记
+大部分个人写的，ai辅助，有错误还请谅解
+
+笔记中英混合，主要为中文
+
+第三章有部分代码跑不出来，欢迎分享解决方案，欢迎讨论ヾ(◍°∇°◍)ﾉﾞ
+
 ## 封面
 
 <img width="841" height="1085" alt="image" src="https://github.com/user-attachments/assets/d4d88dfc-581e-4b66-81ef-f9dc69276b29" />
